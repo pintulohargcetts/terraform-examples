@@ -1,27 +1,7 @@
 ###  Terraform sample application
 
-- 
-
-
-
-
-**Table of Contents**
-
-[TOCM]
-
-[TOC]
-###  Terraform sample application
-
-- 
-
-
-
-
-**Table of Contents**
-``
-[TOCM]
-
-[TOC]
+   **Table of Contents**
+`
 
 	Hello world
 	Creating muitple files
@@ -33,5 +13,5 @@
 	Environment variable
 	Creating Resources in Github using Terraform
 	Creating AWS instance using Terraform
-	 Deploying on kubernetes using Terraform
+	Deploying on kubernetes using Terraform
 
