@@ -1,0 +1,9 @@
+
+{
+    "output" : {
+       "myinfra_in_json": {
+          "value": "Hello - UCP"
+       }
+    }
+}
+

@@ -1,0 +1,6 @@
+.terraform.lock.hcl
+key.
+key.pub
+terraform.state
+terraform.state.backup
+.terraform
