@@ -1,6 +1,6 @@
 provider "github" {
   #token="https://github.com/settings/tokens"
-  token = "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"
+  token = "FILL your token"
 }
 
 
